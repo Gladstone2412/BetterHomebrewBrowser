@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stringset>
+    <string src="Stáhnout" id="download_button_text"/>
+    <string src="Datové Soubory" id="data_button_text"/>
+
+    <string src="Vše" id="db_category_all" />
+    <string src="Nástroje" id="db_category_util" />
+    <string src="Emulátory" id="db_category_emu" />
+    <string src="Porty" id="db_category_port" />
+    <string src="Hry" id="db_category_game" />
+    <string src="Aplikace" id="db_category_app" />
+    <string src="Nástroj" id="db_category_single_util" />
+    <string src="Emulátor" id="db_category_single_emu" />
+    <string src="Port" id="db_category_single_port" />
+    <string src="Hra" id="db_category_single_game" />
+    <string src="Aplikace" id="db_category_single_app" />
+    <string src="Neznámé" id="db_category_unk" />
+    
+    <string src="Vyskytla se chyba&#xA;&#xA;Ujistěte se prosím, zdali je nainstalovaný iTLS-Enso." id="msg_error_ssl"/>
+    <string src="Vyskytla se chyba připojení.." id="msg_error_net"/>
+    <string src="iTLS-Enso není spuštěný.&#xA;Ujistěte se, že před spuštěním této aplikace je správně nainstalován iTLS-Enso." id="msg_no_itls"/>
+    <string src="Vyskytla se síťová chyba.&#xA;Ujistěte se, že je Vaše zařízení připojené k internetu a zkuste to znovu." id="msg_net_fix" />
+    
+    <string src="Chyba nahrávání záznamu." id="msg_entry_error" />
+    <string src="Chyba nahrávání snímku obrazovky." id="msg_screenshot_error"/>
+    <string src="Chyba nahrávání ikony." id="msg_icon_error"/>
+    <string src="Chyba nahrávání popisu." id="msg_desc_error"/>
+    <string src="Chyba spuštění stahování." id="msg_download_error"/>
+    <string src="Nelze se připojit k serveru.&#xA;Prosím zkuste to znovu později." id="msg_error_index"/>
+    <string src="Chyba při analýze indexu.." id="msg_error_parse"/>
+    <string src="Vyskytla se chyba. Prosím zkuste to znovu později." id="msg_wait_fix" />
+    <string src="Pro tuto ikonu nejsou dostupné platné zdroje." id="msg_icon_no_source" />
+    
+    <string src="Volby" id="msg_options"/>
+    <string src="Zdroj" id="msg_settings_source"/>
+    <string src="Informace o sestavení" id="msg_settings_verinfo"/>
+    
+    <string src="CBPS DB" id="db_name_0"/>    
+    <string src="Vita DB" id="db_name_1"/>
+    <string src="VHBD" id="db_name_2"/>
+
+    <string src="Vždy" id="msg_settings_downloadInterval_always"/>
+    <string src="Stáhnout po (Hodiny)" id="msg_settings_downloadInterval"/>
+    
+    <string src="Kontrola aktualizací..." id="msg_check_update" />
+    <string src="Prosím čekejte..." id="msg_wait"/>
+    <string src="Stahování ikony..." id="msg_downloading_icon"/>
+
+    <string src="Není dostupný žádný popis" id="msg_no_desc"/>
+    <string src="Stahování bylo přidáno do fronty na Domovské Obrazovce." id="msg_download_queued"/>
+    <string src="Pro toto stahování nelze najít platný zdroj." id="msg_src_err"/>
+    <string src="%s Ikon" id="icons_dl_name"/>
+    <string src="%s (Dat)" id="data_dl_name"/>
+    <string src="  %d Položek" id="msg_list_header"/>
+    <string src="Seřadit podle" id="msg_sort_header"/>
+    <string src="Chcete tuto ikonu stáhnout znovu?" id="msg_icon_redownload"/>
+    <string src="Velikost aplikace je neznámá" id="msg_download_nosize"/>
+    
+    <string src="Abecedně" id="msg_sort_alpha"/>
+    <string src="Abecedně (Pozpátku)" id="msg_sort_alpharev"/>
+    <string src="Od nejnovějších" id="msg_sort_mostrecent"/>
+    <string src="Od nejstarších" id="msg_sort_oldfirst"/>
+    <string src="Nejstahovanější" id="msg_sort_mostdownloaded"/>
+    <string src="Nejméně stahované" id="msg_sort_leastdownloaded"/>
+
+    <string src="Autoři" id="msg_settings_credits"/>
+    
+    <string src="Podpořit" id="msg_donations"/>
+    <string src="(Odkaz na PayPal)&#xA;Děkuji" id="msg_donate"/>
+
+</stringset>
